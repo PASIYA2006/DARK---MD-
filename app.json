@@ -7,17 +7,17 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "FmtEhZSK#aR2MsbB1l5SVWkNASoS340gl_LceKWg7971OL-VW5Wg",
       "required": true
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://github.com/PasiYa73/Photo/blob/main/%40r07qxo%20-%20R%E2%A4%93Download.jpeg",
       "required": true
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "DARK is alive.",
       "required": true
     }   
 },
